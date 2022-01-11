@@ -10,8 +10,8 @@
   border-radius: 10px;
   image-orientation: flip;
   align-self: center;
-  margin-left: 700px;
-  margin-top:80px;
+  margin-left: 600px;
+  margin-top:50px;
 }
 
 .right-arrow {
@@ -39,7 +39,7 @@
 
 .slide {
   opacity: 0;
-  transition-duration: 1s ease;
+  transition-duration: 2s ease;
 }
 
 .slide.active {
